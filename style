@@ -7,10 +7,10 @@ body{
     background-position: center;
     font-family: sans-serif;
 }
-
+ 
 .loginbox{
      width: 320px;
-    height: 463px; 
+    height: 550px; 
     background: #000;
     color: #fff;
     top: 50%
@@ -62,10 +62,11 @@ h1{
 
 }
 
+
 .loginbox input[type="submit"]
 {
     border: none;
-    outline: none;
+    outline: nne;
     height: 40px;
     background: #fb2525;
     color: #fff;
@@ -84,11 +85,6 @@ h1{
     text-decoration: none;
     font-size: 12px;
     line-height: 20px;
-    color: darkgrey;
-}
-
-.loginbox align-self: hover;
-{
-    color: #ffc107;
+    color: rgb(15, 12, 12);
 }
 
